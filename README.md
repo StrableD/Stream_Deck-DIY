@@ -1,2 +1,14 @@
 # Stream_Deck-DIY
-This respository documents my attempt to make my own Stream Deck. I try to make it as accessible to anyone as possible. The end goal is for the costs to stay below the original. 
+
+Ich habe mir vorgenommen ein Stream Deck mit 15 Tasten selber zu bauen. 
+In diesem Repository will ich meine Reise dokumentieren und damit auch eine Anleitung für andere geben. 
+
+## Dateien
+
+
+## English version
+
+There is a english translation planned. 
+It can be found in the `en` folder. 
+
+## Credits
