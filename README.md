@@ -5,6 +5,13 @@ In diesem Repository will ich meine Reise dokumentieren und damit auch eine Anle
 
 ## Dateien
 
+Aufgeteilt sind die Dateien in Deutsch (`de` Ordner) und Englisch (`en` Ordner).
+Hierbei sind sie gleich benannt, damit man sie einfach vergleichen kann.
+
+Hierbei gibt es folgende Dateien:
+
+- `README.md`: Diese Datei, mit einer Übersicht über das Projekt (englische Version in `en/README.md`)
+- `planned.md`: Geplante Funktionen, Bauteile, Schaltplan, Aufbau
 
 ## English version
 
