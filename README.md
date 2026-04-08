@@ -31,6 +31,8 @@ Hierbei gibt es folgende Dateien:
 
 - `README.md`: Diese Datei, mit einer Übersicht über das Projekt ([englische Version](#english-version) in `en/README.md`)
 - `planned.md`: Geplante Funktionen, Bauteile, Schaltplan, Aufbau
+- `roadmap.md`: Geplanter Zeitplan für die Umsetzung
+- `stream_deck-circuit`: Das KiCad Projekt mit Schaltplan und PCB-Layout
 
 ## English version
 

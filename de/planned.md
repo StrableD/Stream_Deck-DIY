@@ -43,7 +43,7 @@ Daraus wird eine PCB Vorlage exportiert, welches bei JLCPCB/PCBWay bestellt werd
 Das PCB soll alle elektronischen Komponenten halten.
 Die Knöpfe für die Tasten werden über eine Matrix mit dem Microcontroller verbunden um Pins zu sparen.
 Bei der geplanten Anzahl an Tasten werden bei einer 3×5 Anordnung 8 Pins für die Matrix gebraucht.
-Weitere 4 Pins werden für das SPI Display benötigt.
+Weitere 6-7 Pins werden für das SPI Display benötigt.
 
 ## Tasten
 
